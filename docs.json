@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Aeir",
   "colors": {
-    "primary": "#9EE7DB",
-    "light": "#9EE7DB",
-    "dark": "#9EE7DB"
+    "primary": "#7BC8FC",
+    "light": "#7BC8FC",
+    "dark": "#CCF5FE"
   },
   "favicon": "/favicon.svg",
   "navigation": {
